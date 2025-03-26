@@ -1,0 +1,15 @@
+{
+  "name": "convert-img-to-c-array",
+  "version": "1.0.0",
+  "description": "Konversi gambar ke array C untuk LCD TFT pada Arduino dan ESP32",
+  "author": "Muhamad Bekti Wibowo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhamad-bekti-wibowo/ConvertIMGToArrayC/"
+  },
+  "bugs": {
+    "url": "https://github.com/muhamad-bekti-wibowo/ConvertIMGToArrayC/issues"
+  },
+  "homepage": "https://github.com/muhamad-bekti-wibowo/ConvertIMGToArrayC/#readme"
+}
