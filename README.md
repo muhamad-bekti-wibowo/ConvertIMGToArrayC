@@ -19,7 +19,7 @@ Repository ini berisi program untuk mengonversi gambar menjadi array dalam forma
 ## 🔧 Cara Menggunakan  
 
 1. **Jalankan program konversi:**  
-   - Buka `ConvertIMGToArrayC.py` dan jalankan di Python.  
+   - Buka `ConvertIMGToArrayC.exe` di direktori `dist/` dan jalankan.  
    - Masukkan file gambar yang ingin dikonversi.  
    - Pilih format yang sesuai dengan LCD kalian (biasanya Little Endian).  
    - Setelah selesai, file array akan tersimpan secara otomatis.  
